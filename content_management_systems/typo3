@@ -1,0 +1,14 @@
+/.htaccess
+/fileadmin/_processed_/
+/fileadmin/_temp_/
+/fileadmin/user_upload/
+/index.php
+/typo3
+/typo3_src
+/typo3_src-*
+/typo3conf/AdditionalConfiguration.php
+/typo3conf/deprecation_*.log
+/typo3conf/temp_CACHED*
+/typo3conf/temp_fieldInfo.php
+/typo3temp/
+/uploads/
