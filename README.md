@@ -14,4 +14,6 @@ Then copy the desired source to destination:
 $ rsync -a --exclude-from=/tmp/c_and_c++ <src> <dest>
 ```
 
-[//]: is this a comment?
+[//]: # (is this a comment?)
+[//]: <> (or this?)
+[comment]: <> (This is a comment, it will not be included)
